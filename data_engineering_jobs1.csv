@@ -1,0 +1,596 @@
+index,job_id,employer_website,job_employment_type,job_title,job_apply_link,job_description,skillset,job_city,job_country,job_posted_at_date,employer_company_type
+0,E6v1FEA6JsmwSzZrAAAAAA==,http://www.rbc.com,FULLTIME,: Data Engineer/Analyst,https://jobs.rbc.com/ca/en/job/R-0000065504/-Data-Engineer-Analyst,"Come Work with Us!
+
+At RBC, our culture is deeply supportive and rich in opportunity and reward. You will help our clients thrive and our communities prosper, empowered by a spirit of shared purpose.
+
+Whether you’re helping clients find new opportunities, developing new technology, or providing expert advice to internal partners, you will be doing work that matters in the world, in an environment built on teamwork, service, responsibility, diversity, and integrity.
+
+Job Title
+
+: Data Engineer/Analyst
+
+Job Description
+
+Design and develop end-to-end data solutions and analytics capabilities that provide business insights for Transformation and Enterprise Operations (TEO). Investigate and analyze data sources required for data analytics and reporting. Create data models/architecture and implement data objects to support the storage of different types of data. Develop and deploy automated data pipelines to orchestrate the full process of extraction, transformation and load of datasets. Manage our data ecosystem, develop dashboards and perform data analytics to provide valuable insights. Support TEO data strategy journey.
+
+PRIMARY RESPONSIBILITIES
+
+Data Solution:
+• Collaborate with TEO LoBs to understand data requirements, develop efficient data models and ensure the integrity, reliability and efficiency of data processing workflows.
+• Design, develop and maintain scalable data pipelines and ETL processes specific to Dataiku, Python, VBA, Tableau and others.
+• Perform R&D of various data tools to identify opportunities and provide robust solutions.
+• Design for report and process optimization with an integrated approach and thoroughness and ensure best practice and standardization are adhered to.
+• Optimize and tune data pipelines for performance and scalability, ensuring data quality and data consistency.
+• Keep abreast of business changes and anticipate their potential impact on reporting content and processes.
+
+Data Analysis and Reporting:
+• Collaborate with business stakeholders to understand their analytical needs and provide actionable insights and recommendations.
+• Perform exploratory data analysis to identify patterns, trends and opportunities.
+• Develop and execute data queries, transformations, and analysis to support business objectives.
+• Design, implement and maintain data visualization dashboards and reports to effectively communicate insights and findings.
+• Develop predictive models and statistical analysis to support decision making
+
+Data Governance and CoE:
+• Develop TEO Data Centre of Excellence.
+• Accountable for creating and maintaining data environment and governance around guidelines and best practices.
+• Act as a subject matter expert providing data solutions for other teams under TEO.
+• Responsible for monitoring of data volume and scope affecting storage and performance of database solutions.
+• Ensure adequate and up to date documentation on data processes, data dictionary and data lineage.
+• Stay up to date with emerging technologies, tools and best practices for continuous improvement of our data infrastructure.
+
+POSITION REQUIREMENTS/ SPECIFICATIONS
+
+Must have:
+• Bachelor’s degree in Computer Science, Financial Engineering, Data Science, Mathematics or equivalent education/experience
+• Excellent combination of business knowledge and technical competencies
+• 3+ years of experience in data engineering, data analysis, data visualization and reporting tools
+• Strong proficiency in data tools and languages such as Dataiku, advanced SQL, Python, Tableau, VBA and other programming skills
+• Solid understanding and experience with database systems, data modelling, data warehousing concepts, and ETL processes
+• Strong knowledge of data governance and best practices in a data ecosystem
+
+Nice to have:
+• Experience and knowledge of RBC internal systems (EPM, EDW, ODIN, Workday, Finance Datamart, FiBRS)
+• Financial Services Industry experience
+
+WHAT'S IN IT FOR YOU?
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+• Ability to make a difference and lasting impact
+• Leaders who support your development through coaching and managing opportunities
+• Work in a dynamic, collaborative, progressive, and high-performing team
+• Opportunities to do challenging work
+
+#LI-Hybrid
+
+#LI-POST
+
+#LI-TECHPJ
+
+Job Summary
+
+Address:
+
+TORONTO, Ontario, Canada
+
+City:
+
+CAN-ON-TORONTO
+
+Country:
+
+Canada
+
+Work hours/week:
+
+37.5
+
+Employment Type:
+
+Full time
+
+Platform:
+
+Technology and Operations
+
+Job Type:
+
+Regular
+
+Pay Type:
+
+Salaried
+
+Posted Date:
+
+2023-08-11
+
+Application Deadline:
+
+2023-08-25
+
+Inclusion and Equal Opportunity Employment
+
+At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.
+???????
+We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.
+
+Join our Talent Community
+
+Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.","{ETL,Python,SQL}",Toronto,CA,8/11/2023 0:00,Finance
+1,2b4ceWFRsa23Ry4TAAAAAA==,NULL,FULLTIME,Senior Data Engineer,https://ca.linkedin.com/jobs/view/senior-data-engineer-at-shyftlabs-3686397544,"Position Overview:
+
+We are looking for an experienced and versatile Data Engineer to join our dynamic and fast-growing team. If you are passionate about data and solving complex problems, this role could be the perfect fit for you!
+
+ShyftLabs is a growing data product company that was founded in early 2020 and works primarily with Fortune 500 companies. We deliver digital solutions built to help accelerate the growth of businesses in various industries, by focusing on creating value through innovation.
+
+Job Description:
+
+Working with our stakeholders to develop end-to-end Cloud-based solutions with a heavy focus on applications and data.
+
+Collaborate with BI/BA analysts, Data Scientists, Data Engineers, Product Managers, and other stakeholders across the organization.
+
+Ensure the delivery of reliable software and data pipelines using data engineering best practices, including secure automation, version control, continuous integration/delivery, and proper testing.
+
+Ownership of the product will significantly influence on our strategy by helping define the next wave of data insights and system architecture.
+
+A commitment to teamwork and excellent business and interpersonal skills are essential.
+
+You will be an essential part of our growing analytics and data insights team, and be responsible for our technological and architectural vision.
+
+Basic Qualifications:
+
+5 years of experience and hands-on practical experience in data integration, engineering, and technological analytics.
+
+A degree in Science, Technology, Engineering, or Mathematics Related Discipline.
+
+Excellent skills in; SQL, Python, and distributed source control such as GIT in an Agile-Scrum environment.
+
+Experience with ETL pipelines and Airflow.
+
+Experience within a Cloud environment (GCP, AWS, Azure).
+
+Has a strong understanding of dimensional modeling and data warehousing methodologies.
+
+Can identify ways to improve data quality And reliability.
+
+Can use data to discover different tasks for automation.
+
+Is aligned with the latest data trends and ways to simplify data insights.
+
+Is passionate about data and the insights that large amounts of data sets can provide
+
+Experience within the retail industry is a plus.
+
+We are proud to offer a competitive salary alongside a strong healthcare insurance and benefits package. The role is preferably hybrid, with 2 days per week spent in the office. We pride ourselves on the growth of our employees, offering extensive learning and development resources.
+
+ShyftLabs is an equal-opportunity employer committed to creating a safe, diverse and inclusive environment. We encourage qualified applicants of all backgrounds including ethnicity, religion, disability status, gender identity, sexual orientation, family status, age, nationality, and education levels to apply. If you are contacted for an interview and require accommodation during the interviewing process, please let us know.","{ETL,Modeling,Python,SQL,AWS,GCP,Azure,Airflow}",Toronto,CA,8/11/2023 0:00,NULL
+2,vL7ClHbpA-gnZX94AAAAAA==,http://www.sunlife.com,FULLTIME,Senior Data Engineer,https://ca.linkedin.com/jobs/view/senior-data-engineer-at-sun-life-3686806246,"You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do. Discover how you can make a difference in the lives of individuals, families and communities around the world.
+
+Job Description:
+
+Role Summary:
+
+Come be part of an exciting and challenging opportunity by helping to accelerate the growth and application of data analytics capabilities at Sun Life Canada. As part of the Canada Finance Reporting Centre of Excellence, you will have the opportunity to be at the forefront of applying data and analytics to transform our financial reporting processes. You will be helping Sun Life use analytics to deliver on our purpose of helping our Clients achieve lifetime financial security and live healthier lives.
+
+As a Senior Data Engineer on the Canada Finance Reporting COE, your focus will be working with a team of financial professionals to build out a robust data environment to enable a suite of impactful business intelligence products and solutions to support financial operations within Canada. These products and services will allow Sun Life Canada’s Finance leaders to better analyze financial drivers and make data driven decisions.
+
+What will you do?
+• Develop deep understanding of enterprise data, to enable end-to-end solutions
+• Design and engineer data models with key financial business metrics (eg. Expenses, FTE, Sales)
+• Maintain high level of data quality and integrity across data sources
+• Convert complex business and technical rules into logic for data flows and data pipelines
+• Collaborate with stakeholders and design data solutions for various use cases
+• Standardize metadata into a common glossary with the necessary documentation
+
+What do you need to succeed?
+
+Code and tools
+• 3-5 years hands-on experience working on AWS technologies for data processing and analytics
+• AWS Lambda, Glue, SQS, SNS, Cloudwatch or other Cloud technologies
+• Python, Pyspark and SQL
+• Proven track record in leveraging SQL and SQL-based programming to solve business problems
+
+Data Modelling
+• Experience with relational database systems, relational models, dimensional models etc.
+• Sound understanding of data management principles (data warehousing, quality, master data management, etc.)
+• Sound understanding of data modelling and a passion for analytics
+• Experience with engineering data products as input to various analytical models
+• Ensure feedback loops between model deployment and its data – i.e. tune & tweak data products to achieve scale, optimization, etc.
+
+Problem Solving
+• Ability to translate complex business requirements into a set of data ingestion pseudocode
+• Proven ability to leverage knowledge of data engineering to extract, conform and integrate a variety of operational data sources into production-grade data products
+• Demonstrate blend of tenacity, creativity, and discipline required to develop ground breaking self-serve data models for consumption
+
+Education and Qualifications:
+• Undergraduate degree in Computer Science, Mathematics, Engineering, or equivalent
+• Graduate degree in business or quantitative science strongly preferred
+
+Unique Requirements
+• The candidate selected for this role is required to attain Canadian Reliability Security Clearance (administered by submitting fingerprints to the RCMP, who then conduct min. 5 year history checks)
+• To see if you are eligible for this clearance, please review the section 201 on the Federal Government site (https://www.tpsgc-pwgsc.gc.ca/esc-src/personnel/pdcf-rsrp-eng.html)
+
+What's In It For You?
+• Competitive salary and bonus structure influenced by market range data
+• 20 days vacation per year and an innovative sabbatical program
+• Flex hours and Flexible hybrid work model including in-country work-from-home if you prefer.
+• A friendly, collaborative and inclusive culture
+• Being part of our Analytics community, where we share best practices and broaden skill-sets
+• Flexible Benefits from the day you join to meet the needs of you and your family
+• Pension, stock and savings programs to help build and enhance your future financial security
+• Fitness and wellness programs that help you balance work and life and enjoy a healthier lifestyle
+
+The Base Pay range is for the primary location for which the job is posted. It may vary depending on the work location of the successful candidate or other factors. In addition to Base Pay, eligible Sun Life employees participate in various incentive plans, payment under which is discretionary and subject to individual and company performance. Certain sales focused roles have sales incentive plans based on individual or group sales results.
+
+Diversity and inclusion have always been at the core of our values at Sun Life. A diverse workforce with wide perspectives and creative ideas benefits our clients, the communities where we operate and all of us as colleagues. We welcome applications from qualified individuals from all backgrounds.
+
+Persons with disabilities who need accommodation in the application process or those needing job postings in an alternative format may e-mail a request to thebrightside@sunlife.com.
+
+At Sun Life we strive to create a flexible work environment where our employees are empowered to do their best work. Several flexible work options are available and can be discussed throughout the selection process depending on the role requirements and individual needs.
+
+We thank all applicants for showing an interest in this position. Only those selected for an interview will be contacted.
+
+Salary Range:
+
+74,100/74 100 - 120,800/120 800
+
+Job Category:
+
+Advanced Analytics
+
+Posting End Date:
+
+27/08/2023","{Python,SQL,AWS,Spark}",NULL,CA,8/11/2023 0:00,Finance
+3,FUZUhhIjpyRnvlSJAAAAAA==,http://www.rockwellautomation.com,FULLTIME,Data Engineer,https://ca.linkedin.com/jobs/view/data-engineer-at-rockwell-automation-3691632725,"Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+
+Job Description
+
+Key Responsibilities Designs, codes and tests new data management solutions, including supporting applications and interfaces. Architects data structures to provision and enable “Data as a Service” . Supports cross-functional development activity in various DA&I and Connected Enterprise related projects, for internal and external customers Develops and tests infrastructure components in Cloud and Edge-level environments Proactively monitors industry trends and identifies opportunities to implement new technologies Manages the DevOps pipeline deployment model Implements software in all environments Leverages containerization models and works with other engineers and architects to keep the architecture current Assists in the support and enhancement of applications Writes high-quality code compliant with regulations Collaborates with business systems analysts and product owners to define requirements Skills, Knowledge, Experience and Education Bachelor’s Degree in computer science, software engineering, management information systems, or related field Experience in systems development lifecycle Experience in Data management concepts and implementations Experience with Agile development methodologies and system/process documentation Experience with server-side architectures and containerization Experience with SAP Data Services, Azure ADF, ADLS, SQL, Tabular models, or other domain-specific programming languages Familiarity with business concepts and impact of data on business processes Experience managing multiple projects simultaneously Excellent interpersonal, verbal and written communication skills Ability to adapt quickly to new technologies and changing business requirements Solid problem-solving skills, attention to detail, and critical thinking abilities","{SQL,Azure}",Delhi,CA,8/11/2023 0:00,Manufacturing
+4,RoUx9HCgcAuhxRX0AAAAAA==,http://www.lorventech.com,CONTRACTOR,Data Engineer,https://ca.linkedin.com/jobs/view/data-engineer-at-lorven-technologies-inc-3686382165,"Job Title: Full Stack Data Engineer
+
+Location: Toronto, ON Canada (Hybrid)
+
+Duration: Long term
+
+Must have
+
+• 10+ years of experience in similar positions.
+
+• Hands-on Experience with data engineering technologies such as AWS Glue, EMR, Athena, Redshift, Lake Formation, Apache Spark, Apache Hive, Apache Airflow, S3FS, Apache Hudi, and Trino.
+
+• Extensive experience in building data pipelines using orchestration tools like Apache Airflow. Hands-on experience in building cross-cutting concerns like data catalog, data lineage, data quality, data profiling, data discovery, and metadata management.
+
+• Proven experience as a Full Stack Developer with AngularJS and Python.
+
+• Strong understanding of web development technologies including HTML, CSS, and JavaScript.
+
+• Experience working with RESTful APIs and JSON. Familiarity with microservices architecture.
+
+• Experience with core AWS technologies such as EC2, ELB, Auto Scaling, S3, EFS, Lambda, API
+
+Gateway, Step Functions, Cloudwatch, VPC, Route 53, ACM
+
+• Hands-on experience with SQL and NoSQL databases.
+
+• Hands experience with BI tools like Tableau, AWS QuickSight
+
+• Experience with Git or other version control systems.
+
+• Understanding of agile development methodologies.
+
+• Strong problem-solving skills.
+
+• Excellent written and verbal communication skills.
+
+• Ability to work independently and collaboratively in a team environment.
+
+• Experience with cloud platforms such as AWS.
+
+• Bachelor’s degree in computer science, Engineering, or related field
+
+Nice to have.
+
+• Agile, Scrum framework 2+ years' experience on past projects
+
+• Knowledge of containerization technologies like Docker or Kubernetes.
+
+• Experience with front-end frameworks like React or Vue.js.
+
+• Experience with DevOps and CI/CD best practices.
+
+• Experience with Terraform and the AWS provider.
+
+• Experience with API development, security, and best practices.
+
+• Experience with SSO integration with Microsoft Azure AD using oAuth, OIDC, and SAML.
+• Experience with integration with AWS Cognito for user authentication and authorization","{Orchestration,Python,SQL,Docker,AWS,Spark,Azure,S3,Kubernetes,Hive,Airflow,Ci/Cd}",Toronto,CA,8/11/2023 0:00,NULL
+5,DTcNPVRE10a3EL_IAAAAAA==,NULL,FULLTIME,Staff Data Engineer,https://www.recruit.net/job/data-engineer-jobs/9744C3BE7BBD554E,"BEGiN has an exciting opportunity for a Staff Data Engineer to join our growing team! This role will be remote in Ontario, Canada.
+
+BEGiN is an award-winning educational technology company with world-wide impact. With products that are as effective as they are fun, BEGiNs family of brands builds critical skills for school and life.
+
+Were a diverse team of talented people passionate about creating educational content kids love. At BEGiN, we have the rare opportunity to make a dent in the universe by bringing high-quality at-home learning to kids globally!
+
+Reporting into our Director, Data Engineering, the Staff Data Engineer will lead the design and implementation of the enterprise data warehouse models (i.e. data vault, data mart etc) to advance the data platform architecture and implement reliable data pipelines upholding the best practices that are pivotal to analytics, data science, and reporting across the organization.
+
+You will:
+• Work as an architect for the enterprise data warehouse and ensure all deliverables according to the data platform roadmap.
+• Own efficacy and quality of data pipelines and ETL processes that bring data into the enterprise data warehouse.
+• Develop, maintain, and improve tools to enable team members to rapidly consume and understand data.
+• Design and architect scalable infrastructure to build, train, and deploy machine learning models, ETL, and CI/CD with an eye on efficiency.
+• Work hands on with multiple cloud technologies and tools (Python, PySpark, AWS, GCP, Databricks, etc.).
+
+Responsibilities:
+• Work closely with the business stakeholders, data scientists/analysts, and our engineering team to translate requirements into deliverable products.
+• Execute the strategy for the data platform to support the business while optimizing performance and minimizing cost.
+• Partner with stakeholders and engineering teams to deliver solutions in an iterative and incremental manner, leveraging lean and agile principles, fostering an environment of learning and collaboration.
+• Ensure that our applications and operational data remain in sync and all integrations are flowing with no data errors.
+• Lead root cause analysis, prioritize and manage data quality and remediation, and ensure data integrity to all downstream data systems.
+• You will be an expert on understanding how data is collected, maintained, and interpreted and be knowledgeable on the official sources of data in scope to address use case requirements and business needs.
+
+Must Haves:
+• Bachelor degree in Computer Science or related field.
+• Deep understanding of Spark (Databricks) and expertise on Data Warehousing approaches in the Databricks Lakehouse.
+• Expert in Python/Scala and follow/evolve established SDLC, coding best practices, version control etc.
+• Data Platform Architecture experience in AWS and/or GCP.
+• Previous hands-on experience with developing data warehouses.
+• 5+ years of experience in data architecture and engineering.
+• Excellent communication skills tailored for target audience.
+• Strong data management skills with a focus on data warehouse (lakehouse) design, data quality management, and data analysis of large datasets, including hands-on-experience with SQL, no-SQL, and ETL software.
+• Experience in BI tools (i.e. Looker).
+
+Nice-to-Haves:
+• Graduate degree in Computer Science or related field.
+• Understanding of Analytics use cases (i.e. customer360, marketing channel optimization etc).
+• Prior experience with AWS Infrastructure (Networking, VPCs etc).
+• Prior experience with tools such as Fivetran, Airflow, Metarouter, Terraform etc.
+
+We like people who:
+• Are open to suggestions, collaborative, and thrive in team environments.
+• Love and are willing to learn new technologies and styles.
+• Are scrappy, entrepreneurial with the ability to turnaround high-quality projects quickly without depending on a large team.
+
+What youll get:
+• BEGiN offers competitive compensation including equity and benefits.
+• Smart, passionate, and engaged co-workers.
+• Paid time off. Including Holiday/Summer break.
+• Unlimited sick time off.
+
+BEGiN is a proud equal opportunity employer. All qualified applicants will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+At BEGiN, we are committed to building a diverse team of talented people who are passionate about creating educational content kids love. We believe in fostering a culture where productivity can flourish, one that is empathetic, respectful, and inclusive. At BEGiN, we know that diversity, equity, and inclusion arent just an idea, a one-time initiative, or phrases to throw into a job post: theyre a daily practice and an ongoing conversation. We survey our team about inclusivity, run training on DEI topics, and have a committee to ensure we are all continuing to learn and grow.
+
+#LI-IM1","{ETL,Python,SQL,AWS,GCP,Spark,Databricks,Fivetran,Airflow,Ci/Cd}",NULL,CA,8/11/2023 0:00,NULL
+6,cE0sKkjxzajU1lWmAAAAAA==,http://www.grammarly.com,FULLTIME,"Data Engineer, Data Platform",https://ca.linkedin.com/jobs/view/data-engineer-data-platform-at-grammarly-3689961990,"Grammarly is excited to offer a remote-first hybrid working model. Team members work primarily remotely in the United States, Canada, Ukraine, Germany, or Poland. Certain roles have specific location requirements to facilitate collaboration at a particular Grammarly hub.
+
+All roles have an in-person component: Conditions permitting, teams meet 2–4 weeks every quarter at one of Grammarly’s hubs in San Francisco, Kyiv, New York, Vancouver, and Berlin, or in a workspace in Kraków. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that fosters trust and unlocks creativity.
+
+Grammarly team members in this role must be based in the United States or Canada, and they must be able to collaborate in person 2 weeks per quarter, traveling if necessary to the hub(s) where the team is based.
+
+The opportunity
+
+Every day, tens of millions of people and 50,000 professional teams worldwide trust Grammarly’s AI and human expertise to help ideate, compose, revise, and comprehend communications. Our team members have the autonomy to take on exciting challenges in pursuit of our mission to improve lives by improving communication. Together, we’re building on more than a decade of steady growth and profitability. We’re defining the communication assistance category with our tailored service offerings: Grammarly Free, Grammarly Premium, Grammarly Business, and Grammarly for Education. Our latest product offering, GrammarlyGO, brings the power of generative AI to our users. It all begins with our team collaborating in an inclusive, values-driven, and learning-oriented environment.
+
+To achieve our ambitious goals, we’re looking for a Data Engineer to join our Data Engineering Platform team. This person will build highly automated, low latency core datasets that will help data engineers and end users across Grammarly to work with analytical data at scale.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+As a Data Engineer on our Data Engineering Platform team, you will:
+• Drive improvements to make our analytics effortless by creating and adjusting core data models and storage structures, all while understanding the needs of our users.
+• Make analytical data and metrics usable within a few minutes of real world events occuring, and build streaming processes for the output derived events and aggregate data.
+• Model structure, storage, and access of data at very high volumes for our data lakehouse.
+• Improve developer productivity and self-serve solutions by contributing components to our stream data processing framework(s).
+• Own data engineering's infrastructure-as-code for provisioning services that allow our engineers to deploy mature software installations within a few hours.
+• Build a world-class process that will allow our systems to scale.
+• Mentor other back-end engineers on the team and help them grow.
+• Build and contribute to AWS high-scale distributed systems on the back-end.
+
+We’re Looking For Someone Who
+• Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+• Is able to collaborate in person 2 weeks per quarter, traveling if necessary to the hub where the team is based.
+• Has experience with Python, Scala, or Java.
+• Has experience with designing database objects and writing relational queries
+• Has experience designing and standing up APIs and services.
+• Has experience with system design and building internal tools.
+• Has experience handling applications that work with data from data lakes.
+• Has at least some experience building internal Admin sites.
+• Has good knowledge of and at least some experience with AWS (or, alternatively, has deep expertise in Azure or GCE and is willing to learn AWS in a short time frame).
+• Can knowledgeably choose an open source or third-party service to accomplish what they need or, alternatively, can devise a quick and simple solution on their own.
+
+Support for you, professionally and personally
+• Professional growth: We believe that autonomy and trust are key to empowering our team members to do their best, most innovative work in a way that aligns with their interests, talents, and well-being. We support professional development and advancement with training, coaching, and regular feedback.
+• A connected team: Grammarly builds a product that helps people connect, and we apply this mindset to our own team. Our remote-first hybrid model enables a highly collaborative culture supported by our EAGER (ethical, adaptable, gritty, empathetic, and remarkable) values. We work to foster belonging among team members in a variety of ways. This includes our employee resource groups, Grammarly Circles, which promote connection among those with shared identities, such as BIPOC and LGBTQIA+ team members, women, and parents. We also celebrate our colleagues and accomplishments with global, local, and team-specific programs.
+
+Compensation And Benefits
+
+Grammarly offers all team members competitive pay along with a benefits package encompassing the following and more:
+• Excellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)
+• Disability and life insurance options
+• 401(k) and RRSP matching
+• Paid parental leave
+• Twenty days of paid time off per year, eleven days of paid holidays per year, and unlimited sick days
+• Home office stipends
+• Caregiver and pet care stipends
+• Wellness stipends
+• Admission discounts
+• Learning and development opportunities
+
+Grammarly takes a market-based approach to compensation, which means base pay may vary depending on your location. Our US and Canada locations are categorized into compensation zones based on each geographic region’s cost of labor index. For more information about our compensation zones and locations where we currently support employment, please refer to this page. If a location of interest is not listed, please speak with a recruiter for additional information.
+
+Base pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future.
+
+United States
+
+Zone 1: $167,000 - $242,000/year (USD)
+
+Zone 2: $150,000 – $218,000/year (USD)
+
+Zone 3: $142,000 – $206,000/year (USD)
+
+Zone 4: $134,000 – $194,000/year (USD)
+
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Grammarly is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).
+
+Please note that EEOC is optional and specific to US-based candidates.
+
+#NA
+
+All team members meeting in person for official Grammarly business or working from a hub location are strongly encouraged to be vaccinated against COVID-19.","{Python,AWS,Azure}",Toronto,CA,8/10/2023 0:00,NULL
+7,9E8RV1zzLq0yqv-cAAAAAA==,http://www.sobeys.com,FULLTIME,Data Engineer,https://jobs.sobeyscareers.com/sobeys/job/Toronto-Data-Engineer-ON-M5V-1X6/1037110700/,"Requisition ID: 173769
+
+Career Group: Corporate Office Careers
+
+Job Category: Advanced Analytics
+
+Travel Requirements: 0 - 10%
+
+Job Type: Full-Time
+
+Country: Canada (CA)
+
+Province: Ontario
+
+City: Greater Toronto Area
+
+Location: Sobeys Innovation Hub
+
+Postal Code:
+
+Our family of 134,000 employees and franchise affiliates share a collective passion for delivering exceptional shopping experiences and amazing food to all our customers. Our mission is to nurture the things that make life better – great experiences, families, communities, and our employees. We are a family nurturing families.
+
+A proudly Canadian company, we started in a small town in Nova Scotia but we are now in communities of all sizes across this great country. With over 1500 stores in all 10 provinces, you may know us as Sobeys, Safeway, IGA, Foodland, FreshCo, Thrifty Foods, Lawtons Drug Stores or another of our great banners but we are all one extended family.
+
+All career opportunities will be open a minimum of 5 business days from the date of posting.
+
+Overview
+
+We are looking for a highly qualified Data Engineer to join our team and create and maintain optimal data pipeline architecture. In this role, you will be responsible for building infrastructure, identifying internal process improvements, and working closely with analytics and business teams to improve data models.
+
+As a Data Engineer, you will have the opportunity to:
+• Create and maintain optimal data pipeline architecture.
+• Assemble large, complex data sets that meet functional / non-functional business requirements utilizing both cloud and SAP toolsets.
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, SAP, and Azure technologies.
+• Collaborate with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility, and fostering data-driven decision making across the organization.
+• Implement processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes.
+• Write unit/integration tests, contribute to operational and design repositories.
+• Perform data analysis required to troubleshoot data-related issues and assist in the resolution of data issues.
+• Define and catalog company data assets, data models, and pipeline jobs.
+• Design data integrations and data quality framework.
+• Work closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+
+We are seeking a candidate who meets the following qualifications:
+• Bachelor's degree in Computer Science, Computer Engineering, or a related discipline.
+• 4+ year's experience as a data engineer.
+• Python/PySpark experience.
+• Experience in engaging with stakeholders/business partners.
+• Excellent analytical and problem-solving skills.
+• Experience designing, building, and maintaining data processing systems.
+• Knowledge of data analytics, data mapping, data modeling, and data profiling tools.
+• Retail experience is an asset.
+• SAP and Azure experience are a plus.
+
+#LI-Hybrid #LI-LM1 #analyticsatsobeys
+
+We offer teammates competitive total compensation packages that will vary by role and location. Some websites share our job opportunities and may provide salary estimates without our knowledge. These estimates are based on similar jobs and postings for general comparison, but these numbers are not provided by or monitored for accuracy by our organization. We look forward to discussing the specific compensation details relevant to this role with candidates who are selected to move forward in the recruitment process.
+
+Sobeys is committed to accommodating applicants with disabilities throughout the hiring process and will work with applicants requesting accommodation at any stage of this process.
+
+While all responses are appreciated only those being considered for interviews will be acknowledged.
+
+We appreciate the interest from the Staffing industry however respectfully request no calls or unsolicited resumes from Agencies.","{Modeling,Python,SQL,Spark,Azure}",Toronto,CA,8/9/2023 0:00,Retail
+8,UNdIj8E7WjZ_Xb_OAAAAAA==,http://www.adastracorp.com,FULLTIME,Azure Data Engineer,https://ca.linkedin.com/jobs/view/azure-data-engineer-at-adastra-3691670336,"Overview
+
+Attention all data enthusiasts! Are you ready to dive into a world of limitless possibilities? Adastra Corporation is on the hunt for individuals who live and breathe data, those with a drive to unlock quality insights and supercharge our clients with innovation. In this role you will have the opportunity to become a valuable part of our Microsoft team, and design, develop, and optimize data solutions for our clients across North America. If you are ready to become an integral force behind our data-driven success, we can not wait to welcome you to our team!
+
+Location: Remote/Hybrid
+
+Status: Contract/Full-Time
+
+Responsibilities
+• Develop data pipelines for data ingestion and ETL processes from SQL sources or Big Data technologies
+• Identify, design, and implement internal process improvements, including the automation of manual processes, optimization of data delivery, and the redesign of infrastructure for enhanced scalability
+• Provide leadership and assistance to technical teams, engaging in discussions with senior management to communicate the business impact
+• Utilize project management and business analyst skills to gather requirements, lead and manage projects, and ensure timely project delivery
+• Consolidate data from diverse sources to create comprehensive data sets for reporting, covering areas such as data mining, staging, and production
+• Conduct thorough assessments and discovery processes to identify bottlenecks and gaps in infrastructure. Recommend and implement improvements to enhance efficiency
+• Communicate effectively about technical projects and their business implications to both technical and non-technical stakeholders, including management
+• Oversee the service and delivery of technical engagements, ensuring exceptional quality and client satisfaction
+• Uphold high-quality standards for the delivery of business proposals and technical documentation
+• Develop analytics dashboards and automate reports containing key performance indicators (KPIs) to facilitate data-driven decision-making in the business
+
+Qualifications, Skills & Experience
+• Formal education in IT, Computer Science, Computer Engineering, or a related field, and 5-8 years of experience in a Data Engineering role
+• Intermediate to Expert level experience with Azure Data Factory, Azure Databricks, Azure Analysis Service, Azure Synapse, and PySpark
+• Familiarity with cloud deployment models: IaaS, PaaS, Hybrid
+• Solid experience with SQL Server; familiarity with logical SQL statements, functions, triggers, and stored procedures
+• Expertise in data modeling
+• Hands-on technical expertise in Big Data or Data Warehouse technologies
+• Demonstrated ability to optimize data access for speed, reliability, and velocity as required by the business
+• Proven track record of implementing and leading multiple cloud migration engagements
+• Proficient in scripting and automating repetitive day-to-day tasks to optimize efficiencies
+• Energetic and results-oriented, with a demonstrated ability to leverage technology to achieve objectives and enhance efficiency
+• Able to work independently in a fast-paced environment and take the initiative to drive continuous optimization and improvement in the business
+• Exceptional client-facing communication skills (both written and verbal), including the ability to collaborate with onshore and offshore teams
+
+Nice To Have
+• Either AZ-300 or DP-200/201
+• Agile experience or Certification
+• Experience with Microsoft Power BI
+• Proficiency in Python, R, Scala, or Spark scripting
+• Experience with Azure Networking or Security
+
+About Adastra
+
+For more than 20 years, Adastra Corporation has been hyper-focused on data and the infrastructures to support it. We are an international consulting company working work with businesses and IT Leaders to extract value through data and analytic solutions in the domains of Cloud, Data Management, Analytics, AI and ML, Governance, Hyper Automation, and Enterprise Application Development. Our team of experts, combined with our worldclass data management platform, helps provide trusted insights, establish frameworks, enforce best practices, and streamline processes for around-the-clock global coverage. Adastra has a proven track record of helping organizations of all sizes – from SMEs to Fortune 1000s – achieve their data transformation goals, whether that be accelerating innovation, improving operational excellence, or creating unforgettable customer experiences.
+
+What We Offer
+• Opportunity for advancement and career progression
+• Competitive compensation package
+• Comprehensive benefits plan
+• Successful referral program
+• The opportunity to work with one of Canada’s 50 Best Managed Companies
+• Satisfaction of working for a reputable company
+• A flexible, dynamic, and diverse workplace
+
+Equal Opportunity Employer
+
+In our commitment to promote fair and equitable treatment of all employees and applicants, Adastra Corporation provides equal employment opportunities for all individuals regardless of age, sex, disability, race, ethnic origin, citizenship, creed, sexual orientation, marital status, or any other ground as described in the Ontario Human Rights Code. In addition, accommodation will be provided during the hiring process. Adastra Corporation’s implementation and support of employment initiatives, encourage diversified labour force participation and equal access to opportunities based on merit and performance.
+
+There has been an increased instance of fraudulent job offers coming from people posing as Adastra HR employees. Please note that Adastra will never request fees as part of our recruiting process and any emails sent to you that are not from ‘@adastragrp.com’ or ‘@talent.icims.com’ are fraudulent. All employment offers are sent via DocuSign and if you receive an employment offer from a suspicious email and not via DocuSign, it is fraudulent.
+
+Contact careers@adastragrp.com to inquire about jobs at Adastra, to report a suspicious request for money or personal information from external websites or suspicious employment offers.","{ETL,Modeling,Python,SQL,Spark,Databricks,Azure}",Toronto,CA,8/12/2023 0:00,NULL
+9,39-s1D3HjWpkI0BOAAAAAA==,NULL,FULLTIME,Data Engineer,https://fuzehr.com/job/data-engineer-toronto-canada/,"Looking to be a part of a highly innovative organization in your next opportunity!? Our client is currently looking for a Data Engineer to join the hybrid team in Ottawa, Toronto, or Montreal! If you are looking for a new challenge, and have a great interest in technology, we want to hear from you!
+
+Term: 9 Months + Extensions + Permanent Opportunities
+
+The Data Engineer will be responsible for:
+• Migrate SAS-based data and information products to Python as part of analytical teams. This includes coding, reviewing code, ensuring quality, and documenting the process.
+• Guide team members in creating high-quality, clean code and implementing best practices for coding and migration, following company guidelines.
+• Promote collaboration and knowledge sharing within and across analytical teams. Identify opportunities for creating shared code and process efficiencies.
+• Monitor deliverables to meet timelines and milestones. Identify resource needs and potential risks accurately.
+• Evaluate all products and services to ensure compliance with company Privacy and Security Policies and Procedures, including ethical data usage.
+
+The required qualifications for the Data Engineer are:
+• 5 years of Python experience, with advanced skills in manipulating and analyzing large complex datasets.
+• Familiar with Open-Source Environments and Cloud Services.
+• Experience with Spark and PySpark.
+• Knowledge of SAS, R, SQL, and Apache Parquet is a plus.
+• Strong analytical, critical thinking, and problem-solving skills, with expertise in analyzing, synthesizing, and effectively communicating complex information.
+• Strong customer-focus, communication, and collaboration skills, with the ability to build and maintain relationships at all levels of the organization.
+• Bachelor’s degree in Computer Science, Data Science, Statistics, Biostatistics, or a related field.
+
+Summary:
+
+If you are looking for a new challenge, professional growth and have a great interest in Data, please reach out to us today! We can’t wait to introduce you to your awesome new team.
+
+Contract Info / Information sur le contrat
+• Job ID / No. du Poste: 31618
+• Open Positions / Postes Ouverts: 1","{Python,SQL,Spark}",Toronto,CA,8/11/2023 0:00,NULL

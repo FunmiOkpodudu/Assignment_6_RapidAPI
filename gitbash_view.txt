@@ -1,0 +1,78 @@
+JOHNNY@DESKTOP-78BD1DN MINGW64 ~/Desktop/de5_funmilayo (master)
+$ docker build -t funmi2:pipeline .
+#0 building with "default" instance using docker driver
+
+#1 [internal] load .dockerignore
+#1 transferring context: 2B done
+#1 ...
+
+#2 [internal] load build definition from Dockerfile
+#2 transferring dockerfile: 194B done
+#2 DONE 1.0s
+
+#1 [internal] load .dockerignore
+#1 DONE 1.2s
+
+#3 [internal] load metadata for docker.io/library/python:3.9
+#3 DONE 6.2s
+
+#4 [1/5] FROM docker.io/library/python:3.9@sha256:9bae2a5ce72f326c8136d517ade0e9b18080625fb3ba7ec10002e0dc99bc4a70
+#4 DONE 0.0s
+
+#5 [2/5] RUN pip install pandas
+#5 CACHED
+
+#6 [3/5] RUN pip install requests
+#6 ...
+
+#7 [internal] load build context
+#7 transferring context: 3.93kB 0.1s done
+#7 DONE 0.7s
+
+#6 [3/5] RUN pip install requests
+#6 5.941 Collecting requests
+#6 6.842   Downloading requests-2.31.0-py3-none-any.whl (62 kB)
+#6 7.120      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.6/62.6 kB 196.5 kB/s eta 0:00:00
+#6 7.553 Collecting urllib3<3,>=1.21.1
+#6 7.731   Downloading urllib3-2.0.4-py3-none-any.whl (123 kB)
+#6 7.959      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 123.9/123.9 kB 517.8 kB/s eta 0:00:00
+#6 8.335 Collecting certifi>=2017.4.17
+#6 8.518   Downloading certifi-2023.7.22-py3-none-any.whl (158 kB)
+#6 8.811      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.3/158.3 kB 523.8 kB/s eta 0:00:00
+#6 9.560 Collecting charset-normalizer<4,>=2
+#6 9.763   Downloading charset_normalizer-3.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (202 kB)
+#6 10.21      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 202.1/202.1 kB 434.6 kB/s eta 0:00:00
+#6 10.55 Collecting idna<4,>=2.5
+#6 10.72   Downloading idna-3.4-py3-none-any.whl (61 kB)
+#6 10.89      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.5/61.5 kB 364.5 kB/s eta 0:00:00
+#6 11.50 Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests
+#6 14.16 Successfully installed certifi-2023.7.22 charset-normalizer-3.2.0 idna-3.4 requests-2.31.0 urllib3-2.0.4
+#6 14.16 WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+#6 14.26
+#6 14.26 [notice] A new release of pip is available: 23.0.1 -> 23.2.1
+#6 14.26 [notice] To update, run: pip install --upgrade pip
+#6 DONE 15.6s
+
+#8 [4/5] WORKDIR /app
+#8 DONE 3.2s
+
+#9 [5/5] COPY pipeline.py pipeline.py
+#9 DONE 1.6s
+
+#10 exporting to image
+#10 exporting layers
+#10 exporting layers 2.5s done
+#10 writing image sha256:ed7f0c1542d2bea350c2fe0bc4eaa48fd50cf80dc0fcf9fb8074c58c036f4aba
+#10 writing image sha256:ed7f0c1542d2bea350c2fe0bc4eaa48fd50cf80dc0fcf9fb8074c58c036f4aba 0.2s done
+#10 naming to docker.io/library/funmi2:pipeline
+#10 naming to docker.io/library/funmi2:pipeline 0.2s done
+#10 DONE 2.9s
+
+What's Next?
+  View summary of image vulnerabilities and recommendations → docker scout quickview
+
+JOHNNY@DESKTOP-78BD1DN MINGW64 ~/Desktop/de5_funmilayo (master)
+$ docker run funmi2:pipeline
+
+JOHNNY@DESKTOP-78BD1DN MINGW64 ~/Desktop/de5_funmilayo (master)
+$
